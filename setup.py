@@ -46,7 +46,7 @@ setup(
     zip_safe=False,
     use_2to3=True,
     install_requires=[
-        'fake-factory',
+        'Faker>=0.7.0',
         'arrow',
         'click',
         'PyYAML',
