@@ -26,10 +26,10 @@ Usage
 
 .. code-block:: bash
 
-   $ pip install https://github.com/srault95/fake-mail-client/archive/master.zip
+   $ pip install https://github.com/alshell7/fake-mail-client/archive/master.zip
 
    # or with gevent
-   $ pip install https://github.com/srault95/fake-mail-client/archive/master.zip[gevent]
+   $ pip install https://github.com/alshell7/fake-mail-client/archive/master.zip[gevent]
 
    $ fake-mailer sendmail --help
    
